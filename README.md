@@ -1,6 +1,5 @@
 # Which-is-Better-Metamask-or-Rabby-Wallet
 Metamask or Rabby Wallet? Choose your fighter..!
-Which Is Better: MetaMask or Rabby Wallet?
 
 
 MetaMask is the most popular Ethereum-based crypto wallet and has been widely used for years. It supports many EVM-compatible networks and has a mature ecosystem with direct integration into numerous dApps (decentralized applications).
